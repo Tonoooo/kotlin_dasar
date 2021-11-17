@@ -4,4 +4,3 @@
 
 // penjelasan dan cara penggunaanya bisa-
 // menonton video tutorial https://youtu.be/jgdG7OV8C0g
-// atau bisa menontonnya di penyimpanan komputer ini E:\belajar\code\kotlin\VideoTutorialKotlin
