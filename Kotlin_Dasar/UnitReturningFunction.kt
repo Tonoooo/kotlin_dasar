@@ -4,7 +4,6 @@
 
 // penjelasan dan cara penggunaanya bisa-
 // menonton video tutorial https://youtu.be/B4JQPbzfOuA
-// atau bisa menontonnya di penyimpanan komputer ini E:\belajar\code\kotlin\VideoTutorialKotlin
 
 fun pppprinthai(){
     println("hai")
